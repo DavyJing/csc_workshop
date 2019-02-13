@@ -1,2 +1,3 @@
 # csc_workshop
-Demo of git
+Demo of git.
+
